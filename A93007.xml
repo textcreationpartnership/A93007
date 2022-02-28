@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Several speeches made to the Honorable Sir Richard Brown lord mayor of the city of London: on Monday the twenty ninth day of October, in the twelfth year of His Majesties most happy reign, Anno Dom. 1660. : With the manner of the celebration of this triumphant day; and the various scenes, figures, and pageants; representing the Royal Oak, and its pendant leaves, that preserv'd and enshadow'd our Graeious [sic] Lord and Sovereign King Charles, from the hands of his blood-thirsty enemies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93007</idno>
+            <idno type="STC">Wing S2812A</idno>
+            <idno type="STC">ESTC R183772</idno>
+            <idno type="EEBO-CITATION">45097945</idno>
+            <idno type="OCLC">ocm 45097945</idno>
+            <idno type="VID">171521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Several speeches made to the Honorable Sir Richard Brown lord mayor of the city of London: on Monday the twenty ninth day of October, in the twelfth year of His Majesties most happy reign, Anno Dom. 1660. : With the manner of the celebration of this triumphant day; and the various scenes, figures, and pageants; representing the Royal Oak, and its pendant leaves, that preserv'd and enshadow'd our Graeious [sic] Lord and Sovereign King Charles, from the hands of his blood-thirsty enemies.</title>
+                  <author>Browne, Richard, Sir, 1602?-1669.</author>
+               </titleStmt>
+               <extent>[1], 24 [i.e. 23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Wood,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 8 skipped in pagination.</note>
+                  <note>Signatures: A¹-C⁴.</note>
+                  <note>"Mercurius Caledonius. Comprising the affairs now in agitation in Scotland: With a survey of forraign intelligence" (p. 9-24) has imprint: Edinburgh, : Printed by a Society of Stationers, 1661.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Browne, Richard, --  Sir, 1602?-1669.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171521:1"/>
+            <p>The Several SPEECHES Made to the Honorable Sir Richard Brown Lord Mayor of the City of LONDON: ON Monday the Twenty Ninth Day of Octo<g ref="char:EOLhyphen"/>ber, in the Twelfth Year of His Majeſties moſt happy Reign, <hi>ANNO DOM.</hi> 1660.</p>
+            <p>With the manner of the Celebration of this Trium<g ref="char:EOLhyphen"/>phant Day; And the various Scenes, Figures, and Pageants; Repreſenting the <hi>Royal Oak,</hi> and its Pendant Leaves, that preſerv'd and enſhadow'd our Gracious Lord and Sove<g ref="char:EOLhyphen"/>reign King <hi>Charles,</hi> from the hands of his Blood-thirſty Enemies.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. WOOD,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171521:2"/>
+            <head>Several Speeches made to the Honourable Sir <hi>Richard Brown,</hi> Lord Mayor of the City of <hi>London</hi> on Monday the <hi>9th</hi> day of <hi>October,</hi> in the <hi>12th</hi> year of his Majeſties moſt happy Reign, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Monday</hi> the 29th of <hi>October,</hi> ſundry va<g ref="char:EOLhyphen"/>rious and delightful Scenes were preſent<g ref="char:EOLhyphen"/>ed on the Water and the Land, being ce<g ref="char:EOLhyphen"/>lebrated in honour of the deſervedly ho<g ref="char:EOLhyphen"/>noured Sir <hi>Richard Brown</hi> Baronet, Lord Mayor of the City of <hi>London;</hi> and perfor<g ref="char:EOLhyphen"/>med at the Coſts and Charges of the Right Worſhipful Company of Merchant-Taylors; who meeting at their Hall in the morning, in their ſeveral For<g ref="char:EOLhyphen"/>malities, as Gowns, Hoods, Pluſh coats, sky-coloured Scarffs, attended by 8 of his Majeſties Trumpeters, and Kettle-Drums; as alſo his Majeſties Drum Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or with a like co<g ref="char:EOLhyphen"/>loured Scarff about his Waſte, with his Maj. other Drums. Being ſo met, they marched from thence in ſeveral Ranks, two Gentlemen carrying his Majeſties, and the Duke of <hi>Yorks</hi> Banners, his Majeſties Serjeant Trumpeter, &amp; 8 other Trumpets in the Front of them. In this manner they march<g ref="char:EOLhyphen"/>ed towards his Lordſhips houſe; and from thence to their Barges laid at the accuſtomed place; where the ſeveral <hi>Com<g ref="char:EOLhyphen"/>panies,</hi> adorned with Streamers and Banners, and fitted with Hoe-boyes, Cornets, Drums and Trumpets, moved by Wa<g ref="char:EOLhyphen"/>ter towards <hi>Weſtminſter,</hi> his Lordſhip by the way being ſa<g ref="char:EOLhyphen"/>luted with 20 pieces of Ordnance, as peals of entertainment and joy: Againſt <hi>White-hall</hi> was placed a large Fabrick, at the one end whereof a ſhip floating, rigg'd and man'd; at
+<pb n="2" facs="tcp:171521:2"/> the other end a Rock with various Figures; one repreſent<g ref="char:EOLhyphen"/>ing <hi>Oceanus,</hi> who is ſaid to be God of Seas; and the Father of the Rivers. Upon his Lordſhips approach, he addreſſed him<g ref="char:EOLhyphen"/>ſelf in theſe words:</p>
+            <sp>
+               <lg>
+                  <l>
+                     <hi>I Oceanus</hi> of old <hi>Coelums</hi> race,</l>
+                  <l>That like a Ring doth circle and embrace</l>
+                  <l>The ſpacious <g ref="char:V">Ʋ</g>niverſe, God of the Main,</l>
+                  <l>And unto Rivers Lord and Soveraign</l>
+                  <l>Am come to grace my Daughter, Silver <hi>Thames,</hi>
+                  </l>
+                  <l>So much admir'd and lov'd by Royal <hi>James:</hi>
+                  </l>
+                  <l>Whoſe peaceful reign did make her murmures ſweet</l>
+                  <l>Not harſh her Tyde run with harmonious feet:</l>
+                  <l>'Tis Peace that barbs the Billows ſcums the foam,</l>
+                  <l>Inviteth Trade abroad, and brings it home:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>My Lord,</hi> You are a Royal Subſtitute,</l>
+                  <l>Your clear Election is without diſpute;</l>
+                  <l>Imploy your Intereſt, Trade may now encreaſe,</l>
+                  <l>And be envolv'd within the Arms of Peace.</l>
+                  <l>Then ſhall my Grand-Girles<note n="b" place="margin">Syriens.</note> not betray, but ſing,</l>
+                  <l>And drink Carouſes to <hi>Great Britains</hi> King</l>
+               </lg>
+            </sp>
+            <p>The Speech ended, his Lordſhip, Aldermen, and Compa<g ref="char:EOLhyphen"/>nies, landed at <hi>Weſtminster,</hi> and the accuſtomed Ceremonies being performed, they returned to <hi>Baynards</hi> Caſtle, and from thence the whole body moved towards the Eaſt end of St. <hi>Pauls,</hi> in the Front of which the Gentlemen of the Ar<g ref="char:EOLhyphen"/>tillery marched to ſhew their affection and loyalty, being led by Sir <hi>John Robinſon,</hi> Preſident of the ſaid Fraternity, and Lieutenant of the Tower, in his Scarlet Gown and Sword. His Lordſhip being come to the Eaſt end of <hi>Pauls,</hi> he was entertained by a Pageant or Scene (repreſenting a Pavillion or Tent-Royal,) with a moſt elegant Speech from the Sena<g ref="char:EOLhyphen"/>tor;
+<pb n="3" facs="tcp:171521:3"/> which being ended, his Lordſhip moved towards <hi>Cheap<g ref="char:EOLhyphen"/>ſide,</hi> and drawing near the Nags-head Tavern was received by another Scene, ſeated like a Wood, in the midſt whereof was a formal building like a houſe, where ſeveral perſons in the habit of Wood-men and Wood-Nymphs diſported themſelves, dancing about the Royal Oke. And upon the Companies approach, one of the Wood-men calls to the reſt of his Companions, ſaying; Maſs, Gotheard, Maſs, Log<g ref="char:EOLhyphen"/>red, zen ye, zen ye, what a warren a gay voke are yonden, Zibb, Tib, Trot, Zquot, Wab, Win, Nab Gin, what done to mean wullo beezen the vine zight, ho ho, what peſtilent gay vellow's you: 'Twas anſwer'd, the Lord Mayor. Che vears en not vor all that cham reſolv'd to zay zomething toll en: And ſo he proceeded in this following Ruſtick Dialect.</p>
+            <sp>
+               <lg>
+                  <l>A Meezle take thee, Neame cham glad to zee thee,</l>
+                  <l>Give me thoy hond, how don mine Aunt I prithee?</l>
+                  <l>Had Iche but known o this zame gaudy Noon,</l>
+                  <l>Chad dond on viner Cloathes and viner Shoon;</l>
+                  <l>Thone we but Ruſticks are, and Woods done keep,</l>
+                  <l>Ich know there is vine Wool elongs to Sheep,</l>
+                  <l>And zome there are now wear the vineſt thread</l>
+                  <l>In zimple Ruſſet ha bin zheltered,</l>
+                  <l>We Woodmen ha bin honeſt Chil zay that,</l>
+                  <l>And a vart vort, cham ſure that <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>he know what</l>
+                  <l>The ſturdy Oak ha bin a vrend to zome</l>
+                  <l>It wud no bow, no more o that but Mum</l>
+                  <l>Iche hope your Lordſhip takes all in good part</l>
+                  <l>Cham ſure Ich love a Woodman wi mine heart,</l>
+                  <l>
+                     <hi>In down-right Engliſh, Sir, y'are welcome to</hi>
+                  </l>
+                  <l>
+                     <hi>That place of Honour hath been long your due.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <p>The Speech ended, <hi>Silvanus</hi> the Rural God, attyred like a Huntſman, accoſts the Lord Mayor in theſe words:</p>
+            <sp>
+               <lg>
+                  <pb n="4" facs="tcp:171521:3"/>
+                  <l>NO more of noiſe as you reſpect our Care,</l>
+                  <l>Forſake your Natures, and be ſtill as Ayr;</l>
+                  <l>Er'e <hi>Time</hi> had laid his Iron Coat aſide,</l>
+                  <l>And Peace was rather raviſht then a Bride:</l>
+                  <l>Whileſt that the ſubtle Eye of Tyranny</l>
+                  <l>Greedily hunted after Majeſty,</l>
+                  <l>The <hi>Cloſe Trunck</hi> of the <hi>Oke</hi> did entertain,</l>
+                  <l>And ſo ſecur'd your Royal Soveraign.</l>
+                  <l>Twice ſhe receiv'd him in her happy Womb,</l>
+                  <l>At his conveying hence, and coming home;</l>
+                  <l>As though a greater Knot had been t'untie,</l>
+                  <l>Then e're was twiſted in the Propheſie.</l>
+                  <l>The pendant Leaves his head enſhadow'd round,</l>
+                  <l>Not onely to conceal, but to be crown'd;</l>
+                  <l>The Bark that brought him, flew as though it meant</l>
+                  <l>To ſteal upon Us without <hi>Times</hi> conſent.</l>
+                  <l>Thus does the <hi>Oke</hi> draw a freſh breath from Fame</l>
+                  <l>By the inſtinctive Virtue of his Name;</l>
+                  <l>And conſecrated ought to be to <hi>Jove,</hi>
+                  </l>
+                  <l>Producing both th'effects of Peace and Love.</l>
+                  <l>The Ruſticks ſhall be civiliz'd, and now</l>
+                  <l>Embrace what heretofore they'd not allow,</l>
+                  <l>About the Royal Oke the Nymphs ſhall ſing,</l>
+                  <l>And dance a meaſure to their Lord the King:</l>
+                  <l>The Woodmen ſo refus'd ſhall on each Tree</l>
+                  <l>Inſcription make of their quit ſlavery,</l>
+                  <l>And for a Girdle in a Garter ſenſe</l>
+                  <l>'Bout th'Oke write <hi>Hony ſoit qui maly Pence.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <p>Which done, his Lordſhip paſſed towards the Eaſt end of Cheadſide, where he was entertained by another Scean, be<g ref="char:EOLhyphen"/>ing a Chariot drawn by a Lion and a Lamb; in the Chariot was placed three Figures, <hi>Peace, Truth,</hi> and <hi>Plenty:</hi> the Cha<g ref="char:EOLhyphen"/>riot was driven by <hi>Time,</hi> who ſaluted his Lordſhip in theſe words:</p>
+            <sp>
+               <pb facs="tcp:171521:4"/>
+               <p>MY LORD,</p>
+               <lg>
+                  <l>TIME is the Regiſter of all mens Acts</l>
+                  <l>Or good, or bad, their vertue and their facts.</l>
+                  <l>Although by Violence he hath been made</l>
+                  <l>A property unto the Traytors Trade:</l>
+                  <l>Yet Time (that every ſecret brings to light)</l>
+                  <l>At laſt (you ſee) their Treacheries requites,</l>
+                  <l>Payes them in their own Coyn, the bloudy ſtamp,</l>
+                  <l>
+                     <hi>Dun</hi> hath turn'd Surgeon cur'd them of the Cramp.</l>
+                  <l>Treaſon may flouriſh for a little ſpace,</l>
+                  <l>But Time at length writes Villain in its face.</l>
+                  <l>Whil'ſt <hi>Julius Caeſars</hi> death Revengleſs paſt</l>
+                  <l>
+                     <hi>Rome</hi> ne're was free from Sword Fire Plague and Waſt,</l>
+                  <l>Till Time reveal'd the Murderers; and then</l>
+                  <l>Their better Genius did return agen,</l>
+                  <l>And clos'd up <hi>Janus</hi> Temple. Though Time hath</l>
+                  <l>Been curſt by thoſe had neither Wit nor Faith,</l>
+                  <l>But raſhly did conclude hee'd never mend,</l>
+                  <l>And therefore in Deſpair did wiſh his End.</l>
+                  <l>Yet he for every ſore and malady</l>
+                  <l>Hath brought you home a Soveraign Remedy,</l>
+                  <l>Occaſion is his fore-top, which had ſome</l>
+               </lg>
+               <lg>
+                  <l>Long ſince ta'ne hold of, bad dayes had not come:</l>
+                  <l>'Twas not <hi>Times</hi> fault, but theirs that let him go,</l>
+                  <l>Hee's ſwift of foot, their Courage was but ſlow:</l>
+                  <l>You have been wiſe in this (Sir) to your praiſe,</l>
+                  <l>Oretak'n <hi>Time,</hi> renew'd the Alchion Days,</l>
+                  <l>With ſuch A lacrity, that poreing on</l>
+               </lg>
+               <lg>
+                  <l>with ſerious eye, my Enchyridion</l>
+                  <l>That monſtrous Murder that out-fac'd the Sun</l>
+                  <l>Appears to me as yeſterday but done:</l>
+                  <l>So home hath Juſtice follow'd them, their heels</l>
+                  <l>Are now tript up, each his own horrour feels.</l>
+                  <pb n="6" facs="tcp:171521:4"/>
+                  <l>This was <hi>Times</hi> work, though Wiſdome was the Scout,</l>
+                  <l>Without <hi>Time</hi> nothing could be brought about:</l>
+                  <l>Peace is reſtor'd, <hi>Truth</hi> doth in <hi>Triumph</hi> ride,</l>
+                  <l>Not long ſince ſcorn'd, forſaken, and deny'd.</l>
+                  <l>Plenty their Hand-maid follows to maintain</l>
+                  <l>The Majeſty of the <hi>Heroick Train:</hi>
+                  </l>
+                  <l>It is a Maxime (<hi>Trayters</hi> bitter Cup)</l>
+                  <l>Wars maketh <hi>Thieves,</hi> but Peace doth hang them up.</l>
+                  <l>Since <hi>Time</hi> has done ſuch Cures by Providence,</l>
+                  <l>Let him not be abus'd under pretence</l>
+                  <l>Of this, or that, Seeds of Phanatick brains;</l>
+                  <l>But while you govern (<hi>Sir</hi>) hold in the Reynes:</l>
+                  <l>And while the glorious Star-beſtudy'd Sky</l>
+                  <l>Retains a light your Fame ſhall never dy.</l>
+               </lg>
+            </sp>
+            <p>The Speech ended, his Lordſhip and the whole Atten<g ref="char:EOLhyphen"/>dance paſſed down the old Jury through Catt-eaten ſtreet, and Lad-Lane, Maiden-lane, from which place to his Lord-ſhips houſe, a Gallery was made by the Company of Mer<g ref="char:EOLhyphen"/>chant-Taylors on the North; and on the South by the Gen<g ref="char:EOLhyphen"/>tlemen of the Artillery and their Attendants, where another Scene or Rock was placed, on the top whereof a Figure, re<g ref="char:EOLhyphen"/>preſenting Peace, and upon his Lordſhips entring into his houſe, Peace ſaluted him from the top of the Rock, as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <sp>
+               <lg>
+                  <l>AFter ſo many various Sceans of ſtrife,</l>
+                  <l>Horrour and miſchief acted to the life,</l>
+                  <l>By thoſe that ſeem'd to own the ſhapes of men,</l>
+                  <l>But Monſters rather were of <hi>Cau<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us</hi> Denn,</l>
+                  <l>Whole ſulphurous Noſtrels breath'd inteſtine Jars,</l>
+                  <l>Sword, Fire, and Famine, the effect of Wars:</l>
+                  <l>Peace (that their hate and fury did exile)</l>
+                  <l>Is once again return'd unto this Iſle.</l>
+                  <pb n="7" facs="tcp:171521:5"/>
+                  <l>And with her brought <hi>Truth</hi> to Illuminate,</l>
+                  <l>Your hearts to nouriſh Love, and baniſh Hate.</l>
+                  <l>
+                     <hi>Truth</hi> is the Center wherein all things meet,</l>
+                  <l>The Chard by which Wiſdome directs her feet,</l>
+                  <l>The ground of Science; Seal to Charity,</l>
+                  <l>The unmov'd Rock: tip of Eternity.</l>
+                  <l>While Peace and truth do flouriſh in the Land,</l>
+                  <l>Plenty ſhall wait on it with a full hand:</l>
+                  <l>
+                     <hi>Ceres</hi> ſhall cram your Barns, and <hi>Bacchus</hi> crown</l>
+                  <l>Your Boles, no more of Penury be known:</l>
+                  <l>Trade long ſince dead, reviv'd ſhall be again</l>
+                  <l>By th'vertual Influence of your Soveraign,</l>
+                  <l>Whoſe gracious Beams, like to the Sun doth ſhine,</l>
+                  <l>Upon his ſubjects by a Power Divine;</l>
+                  <l>Whoſe Immence, Majeſty, and Glory ſhall</l>
+                  <l>Out-laſt <hi>Times</hi> Age, vnd the Worlds Funeral.</l>
+                  <l>Bleſt be the happy minute of his birth</l>
+                  <l>That elevates our Joyes above the Earth:</l>
+                  <l>
+                     <hi>Flora</hi> the Queen of <hi>May</hi> ſhall honoured be</l>
+                  <l>By all the Sons of <hi>Lyrick</hi> Poeſy:</l>
+                  <l>And you my Lord whoſe prudent care hath bin</l>
+                  <l>Imploy'd in the great Work to bring Him in,</l>
+                  <l>Keep Faction down, ſuppreſs Seditions ſeed,</l>
+                  <l>The bag being broke did the Impoſthume breed:</l>
+                  <l>Let it not gather to a head again,</l>
+                  <l>Infectious matter dwells in a bad brain:</l>
+                  <l>So ſhall your years and happineſs encreaſe,</l>
+                  <l>Live in your Countries love, and die in Peace.</l>
+               </lg>
+            </sp>
+            <p>The Speech being ended, the Companies went to their reſpective Halls; and the Gentlemen of the Artillery took leave, and marched into the Artillery Ground, taking leave of the truly honoured Sir <hi>John Robi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon</hi> by their ſeveral Vol<g ref="char:EOLhyphen"/>lies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:171521:5"/>
+            <head>
+               <hi>MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S CALEDONI<g ref="char:V">Ʋ</g>S.</hi> COMPRISING The Affairs now in Agitation in <hi>SCOTLAND:</hi> WITH A Survey of Forraign Intelligence.</head>
+            <epigraph>
+               <q>Conamur Tenues Grandia.</q>
+            </epigraph>
+            <div type="account">
+               <head>From <hi>Tueſday</hi> 8th. <hi>Jan.</hi> to <hi>Wedneſday</hi> 16. <hi>January.</hi> 1661.</head>
+               <p>HOw vaſt a difference there is twixt a true Repreſenta<g ref="char:EOLhyphen"/>tive of a Nation, and that which is carried on by Faction, may appear by the Firſtlings of this in<g ref="char:EOLhyphen"/>tire Parliament, which through His Majeſties favour we now enjoy, who to efface the tranſcendent enormities engendered by the corruption of the late Commotions under the Heath<g ref="char:EOLhyphen"/>niſh pretexts of a Glorious Reformation, have vindicate themſelves and the Nation of being Antimonarchical, which will ſhortly appear by their Acts to be publiſhed in due time: However, this zeal of our Repentance, though vigorous, yet with ſuch diſcretion it is mannaged, as it derogateth nothing from the Loyalty and Wiſedome of our Anceſtours; for we finde in our Records ſo many convincing Laws of Duty and
+<pb n="10" facs="tcp:171521:6"/> Obedience, as are able (without the help of new decrees) to ſecure the Intereſt of a <hi>Soveraign Propriator,</hi> who is as we fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mly acknowledge His preſent Sacred Majeſty <hi>Charles the Second.</hi>
+               </p>
+               <p>That ſevere ſentence of <hi>Omne Malum ab Aquilone,</hi> muſt not be laid at our doors, for where ſuch Heroick Miniſters of State (as the renowned Earle of <hi>Middleton</hi> His Majeſties Lord High Commiſſioner: The Noble and Learned Earle of <hi>Glencardin</hi> Lord Chancellour: And the generous Earle of <hi>Crawford</hi> Lord Theaſurer; a Parliament of ſo excellent a con<g ref="char:EOLhyphen"/>ſtitution, as ſheweth it ſelf by the uprightneſſe of the Peers, the ingenuity of the Barrons kindneſſe and and affection of our Borroughs) are, may be expected, all which is eminently vertuous, eſpecially in reſtoring the Ancient affection to Par<g ref="char:EOLhyphen"/>liaments, whoſe miſdemeanours theſe 20 years paſt, had all<g ref="char:EOLhyphen"/>moſt Shipwrack't their reputation. Eſpecially one thing wherewith our Nation is charged by the raſh Act of a preten<g ref="char:EOLhyphen"/>ded Parliament, for the late Kings delivery at <hi>Newcaſtle:</hi> I confeſſe, the reproach is great, though performed by a per<g ref="char:EOLhyphen"/>verſe part of the Nation, yet even they had the ſolemn Oaths and Engagements of the Lords and Commons in <hi>England</hi> (Aſſembled then in Parliament, though rebellious) for all imaginable ſecurity of His Majeſties Authority and Perſon, in Honour, Freedom and Safety; as is viſible in all the Printed Tranſanctions of the Time: and if the ſame Lords and Com<g ref="char:EOLhyphen"/>mons had not mincingly and ſnakingly gone about to fetter the Royal Prerogative at the Iſle of <hi>Wight,</hi> the <hi>Engliſh</hi> rigid Presbyterian, and bloody Anabaptiſt, durſt not have Covenan<g ref="char:EOLhyphen"/>ted to bave murtherd the beſt of Kings, and ranverſt the happieſt of Governments. But now (bleſſed be God) the miſled people of all the three Nations, is as Briske in their loyalty, as is the moſt ſpotleſſe ſoul that's free of the Origi<g ref="char:EOLhyphen"/>nal guilt of both Coooovaenants.</p>
+               <p>Before I proceed to this Weeks Intelligence, take along the laſt Weeks omiſſions, occaſioned by a chearful celebrating of our happy Reſtauration.</p>
+               <p>That whereas it was mentioned the Funerals of the late great Marqueſſe of <hi>Montroſe,</hi> was to be remitted to his Noble
+<pb n="11" facs="tcp:171521:6"/> Son, is a miſtake; for our Dread Soveraign, who wants not bounty to the meaneſt of His Servants, hath likewiſe gratitude to His beſt; and therefore amongſt other ſignal Tokens of His favour, he hath appointed the Solemnity of his Funerals at His Majeſties own expenſe, and to be accompanied by the Lord High Commiſſione<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the whole Peers and all the Members of Parliament, when he and they ſhall think expedient.</p>
+               <p>All places belonging to <hi>Archibald Johnſtoun</hi> of <hi>Wariſton</hi> de<g ref="char:EOLhyphen"/>clared void, eſpecially that of Lord Regiſter, in regard he was declared Fugitive and Rebel by the Committee of Eſtates before the ſitting down of Parliament. This ſame place is conferred by His Majeſty on Sir <hi>Archibald Primroſe,</hi> a perſon, who beſides his conſtancy to the Royal Intereſt in the greateſt times of defection, his natural induments being accompa<g ref="char:EOLhyphen"/>nied with ſo large experiences in the greateſt intrigue of State, might juſtly have commended him.</p>
+               <p>Now that I am ſpeaking of <hi>literati,</hi> I muſt not forget His Majeſties Lord Advocate, Sir <hi>John Fletcher,</hi> a perſon of ſo know integrity, that his loyalty could not be confined to the Cabinet or Bar, his ſword being ever ready to plead His Majeſties Intereſt in all honourable occaſions. There is like<g ref="char:EOLhyphen"/>wiſe a third Secretary to His Majeſties Privy Council, Sir <hi>Peter Wedderburn,</hi> who (I may ſay without vanity) may be a Member of the moſt ſerious junto. And as His Majeſty hath diſcovered His excellent choice in His other Officers of State, ſo His Judgement appeareth in that of theſe three Gown-men, well known to the world it is, that in the foggieſt of the Times, the skilfulleſt cheat either in Law or Goſpel, could never brangle the reaſons of theſe intelligent ſouls.</p>
+               <p>The Parliament being met, the day was ſpent in the debate of paſſing two Acts, the one for eſtabliſhing the Lords of the Articles and and Proceſſe; the other appointing Commiſſiners for advancing of Trade, and hearing Bills of complaints.</p>
+               <floatingText xml:lang="eng" type="list">
+                  <body>
+                     <pb n="12" facs="tcp:171521:7"/>
+                     <head>The Names of the Lords, Commiſſio<g ref="char:EOLhyphen"/>ners of the <hi>Articles</hi> and <hi>Proceſſe.</hi>
+                     </head>
+                     <p>Duke <hi>Hamilton,</hi> Marqueſſe of <hi>Montroſe,</hi> Earl of <hi>Erroll,</hi> Earl <hi>Marſhall,</hi> Earl of <hi>Marr:</hi> Earl of <hi>Rotheſſe:</hi> Earl of <hi>Athole,</hi> Earl of <hi>Home,</hi> Earl of <hi>Hadington,</hi> Earl of <hi>Dumfreis,</hi> Earl of <hi>Callendar;</hi> Earl of <hi>Hartfield.</hi> Sir <hi>John Gilmure,</hi> Sir <hi>Peter Wedderburn,</hi> The Barons of <hi>Preſton, Lee, Polmais, Car<g ref="char:EOLhyphen"/>den, Durie, Tarbet, Collington, Garfe, Ardroſſe, Balmayne:</hi> Sir <hi>Robert Murray</hi> Proveſt of <hi>Edinburgh,</hi> Mr. <hi>John Paterſon</hi> Pro<g ref="char:EOLhyphen"/>veſt of <hi>Perth, Alexander Wedderburn</hi> Proveſt of <hi>Dundee, Wil<g ref="char:EOLhyphen"/>liam Gray</hi> Commiſſioner for <hi>Aberdene, Duncan Nairn</hi> Proveſt of <hi>Stirling, Andrew Glen</hi> Proveſt of <hi>Linlithgow, John Bell</hi> Commiſſioner for <hi>Glasgow, William Cunningham</hi> Proveſt of <hi>Air, William Seaton</hi> Proveſt of <hi>Hadingtoun, John Irvine</hi> Proveſt of <hi>Dumfrieſe, John Orcharton</hi> Proveſt of <hi>Arbroth, Hew Sin<g ref="char:EOLhyphen"/>clare</hi> Commiſſioner for <hi>Annan.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="list">
+                  <body>
+                     <head>Lords Commiſſioners for <hi>Trade, Na<g ref="char:EOLhyphen"/>vigation, Manufactories, Bills,</hi> and <hi>Complaints.</hi>
+                     </head>
+                     <p>The Earls of <hi>Sutherland, Murray, Linlithgow, Wigton, Weems, Tillibarden, Roxbrough, Seaforth:</hi> The Lords, <hi>Car<g ref="char:EOLhyphen"/>droſſe, Frazer, Hackerton, Cochran:</hi> The Barons of <hi>Luſſe, Innes, Cromarty, Broughten,</hi> St. <hi>Leonards, Philorth, Birken<g ref="char:EOLhyphen"/>boy, Blackbarronry, Silvertonhill, Pliſcarden, Roſſy, Ricar<g ref="char:EOLhyphen"/>ton: Andrew Caſtares</hi> Commiſſioner for St. <hi>Andrews, Willi<g ref="char:EOLhyphen"/>am Simpſon</hi> for <hi>Dyſart, John Williamſon</hi> for <hi>Kirkcaldy, John Ronald</hi> for <hi>Monroſſe, Alexander Black</hi> for the Eaſt <hi>Enſtruther, Alexander Cuthbert</hi> for <hi>Innernes, George Gairns</hi> for <hi>Burnt-Iſland, Allan Dunlap</hi> for <hi>Irving, John Ewart</hi> for <hi>Kirkcudbright, Walter Watſon</hi> for <hi>Dunbarton, Alexander Burnet</hi> for <hi>Culroſe, James Lawder</hi> for <hi>Dumbar.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb n="13" facs="tcp:171521:7"/>
+               <p>The eſtabliſhing theſe two Courts makes our Laws run in the Old Channel, and ſweeps away the unhallowed Names of Committees, which ſo long had committed our Liberties: They are compoſed of twelve of each State; there Work is to prepare matters for the Parliament, and though they be not all Peers, yet our Laws and Cuſtomes provideth them the Titles of Lords of the Articles, and Lords of the Bills; it is a moſt admirable expedient for the prevention of unne<g ref="char:EOLhyphen"/>ceſſary Diſputs, and yet with a reſervation, to have matters fairly debated before the Parliament, when buſineſſes ſo pre<g ref="char:EOLhyphen"/>pared by them are brought to the Houſe.</p>
+               <p>The Lord Commiſſioners Grace adjourned the Parliament till the Fryday following, which was the 11th. of <hi>January</hi> 1661. where theſe followed Acts paſſed.</p>
+               <p>An Act aſſerting His Majeſties Royal Prerogative in Calling and Diſſolving Parliaments and Convention of Eſtates hy him<g ref="char:EOLhyphen"/>ſelf, or his Commiſſioner, and declaring no Laws nor Acts to be binding, but ſuch as have the aſſent of His Majeſty or Com<g ref="char:EOLhyphen"/>miſſioner, and reſcinding all the Acts made ſince the Year 1640. in the contrary: As likewiſe, repelling all Acts Eſta<g ref="char:EOLhyphen"/>bliſhing Triennial Parliaments.</p>
+               <p>An Act declaring it to belong to his Majeſties Royal Prero<g ref="char:EOLhyphen"/>gative, to Elect the Officers of Eſtate, Lords of Privy Con<g ref="char:EOLhyphen"/>ſel and Seſſion, and repelling all Acts in the contrary.</p>
+               <p>An Act in favours of <hi>Chriſtian Fletcher,</hi> Spouſe to Maſter <hi>James Granger,</hi> ordaining her a notable reward for being ſo inſtrumental in the preſerving the Honors of the Crown, and the thanks of the Houſe given her.</p>
+               <p>Then the Lord Commiſſioner adjourned the Houſe till <hi>Wedneſday</hi> next at two a cloak, in regard of the weighty Af<g ref="char:EOLhyphen"/>fairs that are preparing by the Lords of the Articles for that dayes Work.</p>
+            </div>
+            <div type="extract">
+               <pb n="14" facs="tcp:171521:8"/>
+               <head>An extract out of the Kingdome of <hi>Englands</hi> Intelligencer.</head>
+               <p>WE muſt begin this New-year with the laſt day of the Old, if it be but to tell the Reader, that the <hi>Parliamentary Intelligencer</hi> (as he has good reaſon) hath changed his name; the <hi>Parliament</hi> it ſelf (from whom he borrowed that Compellation) being now diſſolved, though 'tis not in the power of Malice or Folly to miſ-name that Parliament, ſince his Majeſty hath pleaſed with his own Sa<g ref="char:EOLhyphen"/>cred Lips, to bid us call it the <hi>Healing</hi> and the <hi>Bleſſed Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <div type="account">
+                  <head>Jan. 1. 1660.</head>
+                  <p>And while we mention names 'tis our duty to obſerve that this day (New-years day) will not loſe its precedency; not only becauſe 'twas the day of His <hi>Majeſties</hi> Coronation in <hi>Scotland;</hi> but alſo in regard that <hi>CHARLES</hi> Son of his Royall Highneſſe <hi>JAMES</hi> Duke of <hi>York</hi> (onely Bro<g ref="char:EOLhyphen"/>ther to our Lord the <hi>KING</hi>) was this day Chriſteed by <hi>Gilbert</hi> Lord Biſhop of <hi>London</hi> at <hi>Worceſter-Houſe:</hi> Where were preſent His <hi>Majeſty</hi> Himſelf, who with the Duke of <hi>Al<g ref="char:EOLhyphen"/>bemarle</hi> were the two Godfathers, and the Marchioneſſe of <hi>Ormond</hi> Godmother, there being alſo preſent his Highneſſe Prince <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> the Lord High Treaſurer, the Lord Steward and Lord Chamberlain of His Majeſties Houſhold, with many other Perſonages of Honor, beſides the Lord High Chan<g ref="char:EOLhyphen"/>cellor himſelf, Father to her Higneſſe <hi>ANNE</hi> Dutcheſſe of <hi>York,</hi> who the ſame Night Supped with the Queen, and the next day Dined with His Majeſty and His Higneſſe the Duke of <hi>York</hi> (her Husband) in the preſence Chamber at <hi>Whitehall.</hi> And now the good people of <hi>England</hi> have their wiſhes, ſince they ſee a Grand-childe of that vertuous King (<hi>CHARLES</hi> the <hi>Confeſſor</hi> and <hi>Martyr</hi>) born in <hi>England,</hi> whom it hath pleaſed his Majeſty to create Duke of <hi>Cambridge,</hi> and a Dutcheſſe of <hi>York</hi> of their own Countrey and of their own Religion.</p>
+               </div>
+               <div type="account">
+                  <pb n="15" facs="tcp:171521:8"/>
+                  <head>From <hi>Stockholm,</hi> Decemb. 4.</head>
+                  <p>You have queſtionleſſe already heard of thoſe propoſals the Queen <hi>Chriſtiana</hi> made to the States of this Kingdom, deſiring that after the deceaſe of the young King, ſhe might be read<g ref="char:EOLhyphen"/>mitted to the Crown and Government of <hi>Sweden,</hi> in regard her former reſignation had relation only to the late King for life and no longer; which hath been the occaſion that the States, who were then upon diſſembling their Aſſembly, con<g ref="char:EOLhyphen"/>tinued their conſultations by ſome Commiſſioners deputed to conſider of the premiſes, who returned back to the Queen her propoſals, and oblieged her to ſubſcribe a Paper, wherein ſhe renounceth all pretences to the Crown of <hi>Sweden</hi> for ever, and contents her ſelf with that revenew ſetled upon her for her maintenance during life; ſhe ſeemed at firſt to be ſomewhat unwilling, but upon ſecond thoughts, and ſeeing that all the Countrey was againſt her, yeelded to what was not to be avoided. Which affair being determined, it is thought that all the States will depart ſuddenly.</p>
+               </div>
+               <div type="account">
+                  <head>From <hi>Hamburgh,</hi> Decemb. 15.</head>
+                  <p>The Count of Shippenbach, taking ſhipping at Stockholm to go for <hi>Poland,</hi> there to reſide as Ambaſſador in ordinary for this Crown, the ſhip that carried him was caſt away at Sea, on the 3. inſtant, himſelf with 36 perſons being drowned, and 24. ſaved. There is no certainty of the Queen <hi>Chriſtina</hi> her return from Sweden, ſome are apt to believe that ſhe in<g ref="char:EOLhyphen"/>tends to ſtay there all the Winter. The Swedes have lately muſtered their Forces in the Dukedom of <hi>Bremen,</hi> but upon what deſigne they are to be imployed, is not yet known.</p>
+                  <p>Some aver, that they are to be ſent to aſſiſt the Biſhop of <hi>Munſter</hi> againſt the City, which if ſo, a ſhort time will diſco<g ref="char:EOLhyphen"/>ver it.</p>
+                  <p>His Majeſty paſſed ſeveral Acts at the diſſolution of the Par<g ref="char:EOLhyphen"/>liament, but becauſe moſt of them relateth to private buſi<g ref="char:EOLhyphen"/>neſſes and Naturalizing Stranger, I'le only ſet down the moſt conſiderable.</p>
+                  <pb n="16" facs="tcp:171521:9"/>
+                  <p>An Act for the reſtoring of <hi>Henry</hi> Lord <hi>Arundel</hi> of <hi>Warder</hi> to the poſſeſſion of his Eſtate.</p>
+                  <p>An Act for reſtitution of <hi>Thhomas</hi> Earl of <hi>Arundel, Surrey</hi> and <hi>Norfolk,</hi> to the Dignity and Title of Duke of <hi>Norfolk.</hi>
+                  </p>
+                  <p>An Act to reſtore to <hi>Wentworth</hi> Earl of <hi>Roſcomon,</hi> of the Kingdom of <hi>Ireland,</hi> all the Honors, Caſtles, Lordſhips, Lands, Tenaments, and Hereditaments in <hi>Ireland,</hi> whereof <hi>James</hi> Earl of <hi>Roſcomon</hi> his Great Grand-father, or <hi>James</hi> Earl of <hi>Roſcomon</hi> his Father, <hi>&amp;c.</hi>
+                  </p>
+                  <p>An Act for reſtoring of Sir <hi>George Hamilton</hi> unto his Lands and Eſtate in <hi>Ireland.</hi>
+                  </p>
+                  <p>An Act for the Attainder of ſeveral perſons guilty of the horrid Murther of his late ſacred Majeſty King <hi>CHARLES</hi> the Firſt.</p>
+                  <p>An Act for prohibiting the planting, ſetting or ſowing of Tobacco in <hi>England</hi> and <hi>Ireland.</hi>
+                  </p>
+                  <p>An Act for the levying of certain Moneys due upon the collection for the Proteſtants of <hi>Piedmont.</hi>
+                  </p>
+                  <p>An Act for confirmation of Marriages.</p>
+                  <p>An Act for confirmation of Leaſes and Grants from Col<g ref="char:EOLhyphen"/>ledges and Hoſpitals.</p>
+                  <p>An Act for the further ſupplying and explaining certain de<g ref="char:EOLhyphen"/>fects in an Act for the ſpeedy proviſion of money for disban<g ref="char:EOLhyphen"/>ding and paying off the Forces of this Kingdom, both by Land and Sea.</p>
+                  <p>An Act for the leavying of the Arrears of the Twelve months Aſſeſſment, commencing 24. of <hi>June</hi> 1659. and the Six months Aſſeſſement commencing the 25. of <hi>December,</hi> 1659.</p>
+                  <p>An Act for granting unto the King's Majeſty 420000. l. by Aſſeſſment of 70000 l. by the month, for Six months, for disbanding of the Army and paying off the Navy.</p>
+                  <p>An Act for erecting and eſtabliſhing a Poſt-Office.</p>
+                  <p>An Act for the better ordering the ſelling of Wines by re<g ref="char:EOLhyphen"/>tail, and for preventing abuſes in the mingling, corrupting, and vitiating of Wines, and for ſetling and limiting the prizes of the ſame.</p>
+                  <pb n="17" facs="tcp:171521:9"/>
+                  <p>An Act for making the Precinct of <hi>Covent Garden</hi> Parochial.</p>
+                  <p>An Act for raiſing of 70000 l. for a further ſupply of His Majeſty.</p>
+                  <p>An Act for prohibiting the exportation of Wool, Wool-Fells, Fullers-earth, or any kind of ſcouring earth.</p>
+                  <p>At the paſſing of theſe Acts, after Sir <hi>Harbotle Grimſton</hi> (Maſter of the Rolles and Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons) had made a Speech to His <hi>Majeſty</hi> ſetting forth the unparalel'd goodneſſe of His <hi>Najeſty</hi> to His People, and their Loyalty to His <hi>Majeſty</hi>) it pleaſed His <hi>Majeſty</hi> himſelf to make a moſt Gracious Speech to both Houſes, wherein He was pleaſed to fix a name on this Parliament to live to all po<g ref="char:EOLhyphen"/>ſterity, <hi>viz. The Healing and the bleſſed Parliament;</hi> de<g ref="char:EOLhyphen"/>claring, That it ſhould be a Rule to His Actions and Coun<g ref="char:EOLhyphen"/>cils, to conſider, <hi>What is a Parliament like to think of this Action, or this Council?</hi> Adding, how religiouſly He himſelf would obſerve the Act of Indempnity, and would exact the obſervation of it from all others. After which and other moſt Gracious Expreſſions, he referred the reſt to be ſpoken by the Lord High Chancellor, who (according to his cuſtom) excellently ſet forth the happineſſe of His <hi>Majeſty</hi> and His people, which only ſtrive which ſhould expreſſe moſt affecti<g ref="char:EOLhyphen"/>on to each other; to the joy of all good men, and the Ter<g ref="char:EOLhyphen"/>ror of all that refuſe their own happineſſe by thoughts of em<g ref="char:EOLhyphen"/>broyling the Kingdom in Blood, whoſe Deſigns and Plots are particularly mentioned in his Lordſhips Speech, which con<g ref="char:EOLhyphen"/>cluded with the Parliament, for then it was diſſolved, but will never be forgotten for the good it hath done (by the mercies of God) to this late moſt wretched Nation.</p>
+                  <p>And ſince we mention Plots, we cannot but acquaint you, that (beſides the priſoners in our laſt) there are divers others ſecured, as Colonel <hi>Payne,</hi> Mr. <hi>Knight,</hi> (there are many Knights, but that none may miſtake him for a better man, this is Knight the Potter, who after turned preacher, and reprobated all that kept their Allegiance) <hi>Allen, Courtney,</hi> (two who are not unknown to their Brethren of that army;) beſides that faithful man of Reckoning, Mr. <hi>Cook</hi> of the <hi>Bear</hi> at <hi>London-Bridge,</hi> whom we muſt not remember to have come from the Bridge-foot to fit upon Peers in a High Court of Juſtice.</p>
+                  <p>On Saturday laſt, <hi>Decemb.</hi> 29. (which we ſhould have told
+<pb n="18" facs="tcp:171521:10"/> you ſooner, but that we had no pleaſure to mention ſo ſad and univerſal a Loſſe, the chiefeſt of the Nobility and Gentry of the Kingdom met in the Houſe of Peers to attend the Royal Corps of <hi>Mary</hi> Princeſſe of <hi>Orange,</hi> which being brought about 9 at night from <hi>Denmark-Houſe</hi> to <hi>Weſtminſter,</hi> they proceeded through a Lane of Guards of the Duke of <hi>Albe<g ref="char:EOLhyphen"/>marl</hi>'s Regiment of Foot. Firſt, went ſeveral Gentlemen and Knights, next, the Servants of his Highneſſe the Duke of <hi>York;</hi> then the Servants of the Queen; after whom came His <hi>Majeſties</hi> Servants, and next the Servants of the deceaſed <hi>Princeſſe;</hi> then two Heraulds before <hi>James</hi> Marqueſſe of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> Lord Steward of His <hi>Majeſties</hi> Houſhold, and <hi>Edward</hi> Earl of <hi>Mancheſter</hi> Lord Chamberlain of His Majeſties Houſe<g ref="char:EOLhyphen"/>hold; after whom went <hi>Edward</hi> Lord <hi>Hyde,</hi> Lord High Chan<g ref="char:EOLhyphen"/>cellor of <hi>England,</hi> with the Purſe and Mace born before him; after whom came another Herald with a Coronet upon black Velvet, and then the Royal Corps carried by her own Servants, the Pall being ſupported by ſix Earls, and the Canopy born over it by ſeveral Baronets, His Highneſſe the Duke of <hi>York</hi> following the Corps with an Herald before him, and divers per<g ref="char:EOLhyphen"/>ſons of Quality bearing his Train. Thus they proceeded till they came to King <hi>Henry</hi> the 7ths Chappel, where the Corps were Interred in a Vault particularly ſet a part for the Royal Line.</p>
+               </div>
+               <div type="account">
+                  <head>From <hi>Rome</hi> Decemb. 11.</head>
+                  <p>Concerning the affairs of Modena, Parma and France no<g ref="char:EOLhyphen"/>thing as yet is determined, much may be expected, but little is feared, the Court of his Holineſſe ſeeming to be aſſured that hardly a Horſe will be ſadled by the two Potentates of <hi>France</hi> and <hi>Spain,</hi> in favour of the Princes who pretend great matters from the <hi>Pope,</hi> and by themſelves are not ſo much to be regarded. There is a talk here of a certain Duke who hath negotiated with the <hi>Conſtable Colonna</hi> touching a match with his Siſter, notwithſtanding the Dukes Lady is yet living: whence ſome Pamphleteer hath taken occaſion to publiſh a Paper, wherein he ſheweth how neceſſary an evill woman is, that even this day men are found who look about for a ſecond wife, when as the firſt is yet alive. The Pope moved by his paternal care for the univerſal Church, hath reſolved to lay a general Subſidy on all Chriſtendome, ſo far as it acknow<g ref="char:EOLhyphen"/>ledgeth his Authority, therewith to aſſiſt not only the Empe<g ref="char:EOLhyphen"/>ror
+<pb n="19" facs="tcp:171521:10"/> (who is ſending the Marqueſſe <hi>Matthei</hi> hither, and to the other Italian Princes for that purpoſe) but alſo the Republick of <hi>Venice;</hi> which done for ſo many years, hath ſtood as a Bulwark for Chriſtendome againſt the common Enemy. The Cavalier <hi>Bar<g ref="char:EOLhyphen"/>nino</hi> tender'd a deſign for making of a new Ditch before the river of <hi>Tyber,</hi> that it ſhould not over-run its Banks for the time to come, but the charges amounting to 300000. Crowns, it is thought more expedient to keep the money, then to ſpend it that way. From <hi>Naples</hi> we are informed that the late Storm hath not only there done much hurt, but that the Town of <hi>Taranto</hi> by the laſt flood is likewiſe quite overflown.</p>
+               </div>
+               <div type="account">
+                  <head>Dito.</head>
+                  <p>The Cardinals <hi>d'Eſte,</hi> and <hi>Anthonio Barberini</hi> have many confe<g ref="char:EOLhyphen"/>rences with the Ambaſſadors of <hi>Spain.</hi> It is thought, that they are contriving of means to hinder the <hi>Turks</hi> from proſecuting their deſigns againſt the <hi>Chriſtians.</hi> From <hi>Civita Vecchia</hi> we are adver<g ref="char:EOLhyphen"/>tiſed that the Popes Gallies, which have been in the Levant to aſſiſt the <hi>Venetians,</hi> are returned thither. It is ſaid, that this next ſpring his Holineſſe will aſſiſt the Republick of <hi>Venice</hi> with a more conſiderable ſuccour then before, to which all other Chriſtian Princes are to be deſpoſed to contribute their ſhares.</p>
+                  <p>
+                     <hi>Sunday,</hi> Jan. 13. By the Lord Commiſſioners appointment, Mr. <hi>Robert Lowrie</hi> and Mr. <hi>James Chambers</hi> Miniſter of <hi>Cullen</hi> Preach<g ref="char:EOLhyphen"/>ed before the Parliament, at their own Houſe; the firſt, Mr. <hi>Lowrie</hi> in the forenoon acquit himſelf both Piouſly, Learnedly and Cautelouſly, the other indeed, though a young man, made appear that he was very old in Learning, and learned in old Learning, which without all doubt produced the effects of ſuch Orthodox prin<g ref="char:EOLhyphen"/>ciples as he diſcovered, and if ſuch be the general abilities and diſ<g ref="char:EOLhyphen"/>poſition of the young Divines of our Nation, it is not to be feared hereafter that the moſt Artificial ſpirits of Ambition can ever corrupt them to be Evangelical bray-hounds, to turn the affecti<g ref="char:EOLhyphen"/>ons of their Congregations from their true Allegiance, as many of the old ones has done: and now ſince they have preached them<g ref="char:EOLhyphen"/>ſelves out of credit, there little crazed nodls is employed in com<g ref="char:EOLhyphen"/>poſing Latine Ballads of praiſe upon his <hi>Majeſtie,</hi> and till ſuch time as we have Organs in our Cathedrals, to have them ſung to the
+<pb n="20" facs="tcp:171521:11"/> Tune of Penitential Hymns, let them ev'n cant them on to the Are of <hi>Hog-ma-nay.</hi>
+                  </p>
+                  <p>We are advertiſed from <hi>London,</hi> that the Fanaticks upon the 7th. inſtant at night, appeared in ſome ſmall Bodies at the Royal Exchange, Biſhops-gate, and St. <hi>Pauls,</hi> but being ſurprized by the Train Bands before their number was conſiderable; after ſome change of ſhot, where three fell upon the Lord Major's ſide, ſome ſay more, the Blaſphemers quickly threw down Arms and fled ſe<g ref="char:EOLhyphen"/>veral wayes; the night befriended them that there were not ſo many priſoners as otherwayes might have been: divers are taken, and ſcandalous treaſonable papers found in their pockets; the Al<g ref="char:EOLhyphen"/>larm was hot and univerſall, and much of Courage and Loyalty diſ<g ref="char:EOLhyphen"/>covered by people of all Stations, the vigilance of a ſtout Lord Major and brave Citizens, was highly diſplayed. And bleſſed be God for it, His <hi>Majeſty</hi> poſſeſſes in this our City of <hi>Edinburgh,</hi> ſuch cordial affections as may vye with any in His <hi>Majeſties</hi> three Domi<g ref="char:EOLhyphen"/>nions; for at preſent, as it is governed by the carefull and provi<g ref="char:EOLhyphen"/>dent Sir <hi>Robert Murray</hi> Lord Proveſt, the admirable diſcretion of <hi>John Jouſie,</hi> William <hi>Waucbab, Thomas Calderwood</hi> and <hi>John Boyd</hi> their Bailies, <hi>Edward Edgar</hi> their judicious Dean of Gild, and <hi>Tho<g ref="char:EOLhyphen"/>mas Murray</hi> their faithfull Treaſurer accompanied with a prudent Counſell of honeſt Burgeſſes, and the diligence of their truſty and experimented Servant Sir <hi>William Thomſon:</hi> it is not to be doubted but that remarkable Epithet of the <hi>Good Town,</hi> ſo frequent in their Charters, and given by the beſt of Kings for their Fidelity, ſhall with Addition if needfull, be Ratified by our now Dread Soveraign: for among other things, they have eſtabliſhed ſo upright a Militia under ſuch reſolute Comman<g ref="char:EOLhyphen"/>ders, that if all our Fanaticks were united as one man, and durſt p<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> out in their precincts, they could not ſhun their deſerved chaſtiſements, their demonſtrations of love hath been ſo ſignal in theſe our late glorious Changes, that if it were poſſible, to blot them out of the Calendars of time, there's not a childe of the leaſt reaſon that breaths their air, but has them ſo regiſtrate in their memories, as by tradition they muſt needs be bequeathed to Eternity, and that God multiply his bleſſings upon them both Spiritual and Temporall, ſo long as they perſiſt in theſe Loyal prin<g ref="char:EOLhyphen"/>ciples ſhall be wrapped up in the dayly prayers of their Affectio<g ref="char:EOLhyphen"/>nate and faithfull Townſman.</p>
+                  <pb n="21" facs="tcp:171521:11"/>
+                  <p>As we was ready to cloſe this weeks Intelligence, this fol<g ref="char:EOLhyphen"/>lowing Narration of the Rebels proceedings in <hi>England,</hi> was laſt night being the 15. <hi>Jan.</hi> extracted from the <hi>Engliſh Mercurius Publicus.</hi>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>
+                     <hi>London,</hi> Jan. 6.</head>
+                  <p>We muſt deſire the Reader to take notice, that thoſe who till now denyed there was a PLOT, were themſelves guil<g ref="char:EOLhyphen"/>ty of it; who, though their number (thanks be to God) be very ſmall, yet their malice and blood-thirſtyneſſe is not eaſie to be equall'd, which is <hi>legible</hi> enough in their <hi>Sermons</hi> and <hi>Declarations;</hi> For this morning (before they fell to their bloody work) they had a Sermon preached by <hi>Venner</hi> (heretofore a Wine-cooper; who ſtirr'd them up <hi>to fight for King Jeſus;</hi> aſſuring them, that <hi>One ſhould chaſe ten, and ten ſhould chaſe a thouſand.</hi> And in their <hi>Declaration</hi> they tell us (pag. 2.) That <hi>their enemies</hi> (which are all good men that love Peace and Authority) <hi>ſhould not be able to touch one hair of their heads</hi> (though now they find both Head and Neck may be <hi>touched</hi>) That <hi>they were cut out for this work;</hi> That <hi>they will never ſheath their ſwords again, untill Babylon</hi> (ſo they call <hi>Monarchy) become a hiſſing and a curſe, and their be left neither Remnant, Son, nor Nephew:</hi> That <hi>when they have led Capti<g ref="char:EOLhyphen"/>vity captive in</hi> England, <hi>they will go on to</hi> France, Spain, Ger<g ref="char:EOLhyphen"/>many, &amp;c. <hi>and rather die then take the wicked Oaths of Supre<g ref="char:EOLhyphen"/>macy and Allegiance:</hi> That <hi>they will incite and provock all their brethren in all Countreys to a General Rendezvouz:</hi> That <hi>they will not make any League, or joyn any Affinity with Monarchiſts, but will riſe up againſt the Carnal, to poſſeſſe the GATE</hi> (that's the word) <hi>to bind their Kings in chains, and their Nobles in fetters of iron.</hi>
+                  </p>
+                  <p>After this <hi>Sermon</hi> and <hi>Declaration</hi> (whereof many Copies were found in one houſe) thoſe bloody Zelots prepare them<g ref="char:EOLhyphen"/>ſelves for Execution this <hi>Twelf-day at night;</hi> (who can forget the day, ſince <hi>Twelf-day at night</hi> 1641. when this deſperate Faction drew down upon <hi>White-hall,</hi> and forced His late <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> of glorious memory to leave both Parliament and City) in the interim a Friend of their own (touched it ſeems in conſcience) came to the moſt vigilant Sir <hi>Richard Brown</hi> Lord Major of the City of <hi>London,</hi> and privatly gave him notice of their deſign: After this, came another for the ſame purpoſe,
+<pb n="22" facs="tcp:171521:12"/> (for how can they think that ſo much villany ſhould paſſe un<g ref="char:EOLhyphen"/>revealed, which requires ſo many hands and heads ſo ſcalding hot?) whereupon his Lordſhip conſulting more the publick than his own ſafety, adventured forth with only four Harber<g ref="char:EOLhyphen"/>deers; and ſix other perſons with Swords to give a timely Alarme to the City, and ſuppreſſe theſe wild Rebels, before they grew too numerous and formed, though they had all armed themſelves with Back, Breſt, and Head-piece, in <hi>Cole<g ref="char:EOLhyphen"/>man-ſtreet</hi> at the <hi>Meeting-houſe</hi> (that old neſt of Sedition) and ſeveral other places. This early appearance of the reſo<g ref="char:EOLhyphen"/>lute Lord Major kept them from embodying, his Lordſhip chaſing them from place to place, till after eleven at night. About 12. of Clock twixt thirty and fourty of theſe were met by two Files of the Trained Bands ſent forth by the Lord Ma<g ref="char:EOLhyphen"/>jor; Theſe bade the Rebels ſtand, and the Rebels asked the Trained Band, <hi>Who they were for;</hi> who anſwered, <hi>For God and King Charles;</hi> and the Rebels replied, <hi>And we are for King Jeſus;</hi> (this is the very anſwer given of old by the Rebels in King <hi>Johns</hi> time, who called themſelves the <hi>Army of God,</hi> and ſaid, <hi>They fought for King Jeſus</hi>) at the ſame inſtant the Re<g ref="char:EOLhyphen"/>bels ſpake, they fired upon the Citizens, who gave them the ſame reply, whereby two men were killed, at which ſome re<g ref="char:EOLhyphen"/>tired, and the Rebels ſuſpecting or Perceiving relief coming to the Trained Band) retreated towards Aldersgate, where having forced the Watch at the Gate, they went to <hi>White-croſs<g ref="char:EOLhyphen"/>ſtreet,</hi> where being interrupted, they killed the <hi>Conſtable,</hi> wounded the poor Bell-man and ſeveral others there, as well as in other places where they paſſed; but whether they fled, or what became of them, we have no certainty.</p>
+                  <p>About this time another Party of theſe Rebels appeared near <hi>Biſhops-gate,</hi> where they were met by two Files ſent from the Guard at that Gate. There paſſed few words, but (as be<g ref="char:EOLhyphen"/>fore) they fired upon each other, where divers were wounded, one ſince dead of his wounds, and one taken, who was ſo hurt he could not get off; Theſe few Citizens finding themſelves much overpowered by the Rebels, retired back toward their Guard, where receiving no Relief from their Commander (the Gate being ſhut) they diverted their courſe, and the Rebels in the interim found opportunity to eſcape.</p>
+                  <p>By this time, the <hi>Londoners</hi> were all alarm'd, and grew ſo nu<g ref="char:EOLhyphen"/>merous,
+<pb n="23" facs="tcp:171521:12"/> that they needed no aſſiſtance from <hi>Weſtminſter,</hi> who could have lent them an Army of Horſe and Foot had there been occaſion; the Nobility and Gentry all flocking in to at<g ref="char:EOLhyphen"/>tend his Royal Highneſſe the Duke of <hi>York,</hi> who with the Lord General the Duke of <hi>Albemarle</hi> were ready to mount, upon the leaſt notice form the Lord Major, who now had ſo diſper<g ref="char:EOLhyphen"/>ſed the Rebels, that not one of them was to be found.</p>
+                  <p>The next day, the Lord <hi>General</hi> ſent forth Colonel Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Sandys,</hi> with a Troop of Horſe, and 200. of his Grace's own Regiment of Foot, to ſcour <hi>Cane-wood</hi> (twixt <hi>Highgate</hi> and <hi>Hampſted</hi>) where theſe ſavage Rebels (as many as were left) were ſaid to be together. Sir <hi>Thomas</hi> found this Rem<g ref="char:EOLhyphen"/>nant lining a Hedge nigh a Gravel pit, where by night (the Moon not yet ſhining) himſelf &amp; ſome of his men were in more danger of the pit, then of the Rebels; who notwithſtanding fired from the Hedge upon the Lord <hi>Generals</hi> Foot, without doing any execution, ſave one ſouldier hurt: They had too long ſerved in that excellent Regiment, to fire at ſuch a di<g ref="char:EOLhyphen"/>ſtance, and therefore ſwiftly made up to the Rebels, who after the firſt fire, fled into the Wood, which with help of night gave them leave to creep away, ſo as but few of them were taken. Sir <hi>Thomas</hi> ſurrounded the Wood, and ſearched dili<g ref="char:EOLhyphen"/>gently the next morning, but no more were to be found.</p>
+                  <p>You would now conclude theſe Phanatick Rebels totally ſuppreſſed; and yet this Wedneſday morning (<hi>Jan.</hi> 9.) they are again in Arms. One party were diſcovered in a Lane be<g ref="char:EOLhyphen"/>yond <hi>Leaden-Hall,</hi> where they made their firſt ſtand, twixt five and ſix this morning. The Lord Mayor (though he had been in no bed of two nights before) yet was up, and upon the Rebels before they could effect any part of their deſign. After ſome firing on both ſides, they made a ſecond ſtand in <hi>Little Eaſtcheap,</hi> which they made with more vigour then before; and then retired to <hi>London-ſtone,</hi> where (though their num<g ref="char:EOLhyphen"/>bers were augmented) they all diſperſed.</p>
+                  <p>This paſſed, the Lord Mayor came down from Wood-ſtreet, to another Party of Rebels; and theſe had been at his Lord<g ref="char:EOLhyphen"/>ſhips Houſe in <hi>Maiden-Lane</hi> to ſurpriſe him in his bed, where they knew he had not ſlept in two nights before, where they knew he had not ſlept in two nights before, ſaying aloud as they march'd, <hi>Now for BROWN, Now for BROWN,</hi> At
+<pb n="24" facs="tcp:171521:13"/> that inſtant, his Lordſhip being up, and engaged with the other Party, they loſt their deſign upon his Lordſhip, but were by ſome of the Trained-bands and part of His Majeſties Life-guard. And here (to give the Rebels their due) they diſputed as if they had a greater number and a better cauſe; but after his Lordſhip came, Major <hi>Henſhaw</hi> made another freſh Charge, thoſe of the Life-guard and the Train'd-bands joyning with him, whereby the Phanatick Rebels were broken, five or ſix kill'd, and diverſe wounded, amongſt whom was their ſpiritual Capt. <hi>Venner,</hi> whoſe wounds are ſuppoſed mortal, The reſt were purſued to the Poſtern-gate in <hi>London-wall,</hi> where ſeven of them unable to fly further, betook themſelves to an Houſe, where though they were ſummoned, they ſtood out till five of the ſeven were kill'd, the other two crying for <hi>Quar<g ref="char:EOLhyphen"/>ter,</hi> which was granted, but as ſoon as the Officer entered, one of theſe deſperate Rebels ſtabb'd at him, which falling up<g ref="char:EOLhyphen"/>on his Corſſet took no effect.</p>
+                  <p>His Royal Highneſſe the Duke of <hi>York</hi> hearing of the reſi<g ref="char:EOLhyphen"/>ſtance of theſe Rebellious Phanaticks, came up into <hi>London</hi> with the Duke of <hi>Albemarle,</hi> the Earl of <hi>Oxon,</hi> the Earl of <hi>Northampton,</hi> the Lord <hi>Farfax,</hi> and very many more Peers and Noble Gentlemen, with part of the Life-guard, and di<g ref="char:EOLhyphen"/>vers Officers of the Army, ready to ſerve his Majeſty and his Highneſſe, if there had been occaſion. The people at the ſight of his Royal Highneſſe, made many great Shouts and Ac<g ref="char:EOLhyphen"/>clamations for joy, his Highneſſe returning thanks to the ſeve<g ref="char:EOLhyphen"/>ral Officers and Trained Bands, after his Diſcourſe with the Lord Major, who acquainted his Highneſſe how well Lieutenant Colonel <hi>Cox,</hi> Major <hi>Henſhaw,</hi> Capt. <hi>Clark,</hi> and other Officers had behaved themſelves in this ſervice, there being not one Rebel (how mad and deſperate ſoever) but is either kill'd, fled, or priſoner, whilſt there are now ſo many, that ſeveral pri<g ref="char:EOLhyphen"/>ſons are too full, for whoſe particular names we here want room.</p>
+                  <p>Yeſternight (<hi>Jan.</hi> 8.) Sir <hi>Arthur Haſilrig</hi> died in the <hi>Tower of London.</hi>
+                  </p>
+                  <p>
+                     <hi>London,</hi> Thurſday, the 10th. <hi>Jan.</hi> His Majeſty ſafely returned from conducting his Royal Mother to <hi>Portſmouth,</hi> beſides his own Guards the affections of the Gentry appeared highly in Rendezvouzing wherever His Sacred Perſon was: ſince his coming to <hi>Whitehal,</hi> there is fifty Noble<g ref="char:EOLhyphen"/>men and Gentlemen of each of the three Nations to keep Guard at the Court.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by a Society of <hi>Stationers,</hi> 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
